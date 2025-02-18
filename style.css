@@ -60,6 +60,8 @@ body::before {
     font-weight: 700;
     border: none;
     margin-top: 2rem;
+
+    cursor: pointer;
 }
 
 button:disabled {
