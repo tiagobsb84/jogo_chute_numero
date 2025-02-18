@@ -7,6 +7,9 @@ Esse projeto foi desenvolvido com a seguintes tecnologias:
 - 🎨 **CSS** - Estilização do jogo  
 - ⚡ **JavaScript** - Lógica do jogo
 
+# Link do site
+Visualizar o site online: <a href="https://chute-numero.netlify.app/" target="_blank" rel="noopener noreferrer">Game - Adivinha</a>
+
 # Imagens do projeto
 ## Versão Desktop:
 <img src="img/projeto-desktop.jpg">
